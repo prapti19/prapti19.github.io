@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#76243d"/><text x="32" y="43" fill="#faf7f2" font-family="Georgia,serif" font-size="35" text-anchor="middle">pt</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Capy-latte: a capybara in a latte cup</title>
+  <rect width="64" height="64" rx="15" fill="#faf7f2"/>
+  <path d="M47 37h5c12 0 12 17 0 17h-7" fill="none" stroke="#76243d" stroke-width="5"/>
+  <ellipse cx="29" cy="38" rx="22" ry="6" fill="#e6bf94"/>
+  <ellipse cx="29" cy="38" rx="18" ry="3.5" fill="#8b5942"/>
+  <ellipse cx="19" cy="15" rx="5" ry="6" fill="#bd865b"/>
+  <ellipse cx="37" cy="14" rx="4.5" ry="5.5" fill="#bd865b"/>
+  <ellipse cx="19" cy="15" rx="2" ry="3" fill="#e5b48a"/>
+  <path d="M15 25c0-9 5-14 14-14 8 0 13 5 13 13v3h3c5 0 7 3 7 7s-3 8-10 8H27c-8 0-12-6-12-17Z" fill="#c89468"/>
+  <path d="M30 28h15c5 0 7 2 7 6s-3 8-10 8h-9c-6 0-8-4-8-7s2-7 5-7Z" fill="#dab18a"/>
+  <path d="M22 26q3-3 6 0" fill="none" stroke="#4c3029" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="47" cy="31.5" rx="2" ry="1.5" fill="#4c3029"/>
+  <path d="M39 36q3 2 6 0" fill="none" stroke="#8b5942" stroke-width="1.6" stroke-linecap="round"/>
+  <ellipse cx="21" cy="31" rx="3" ry="1.7" fill="#d9a094"/>
+  <path d="M8 38h43l-3 12c-1.2 6-6 10-12 10H23c-6 0-10.8-4-12-10Z" fill="#76243d"/>
+  <path d="M9 38q21 5 41 0" fill="none" stroke="#9b4a5f" stroke-width="2"/>
+  <ellipse cx="19" cy="39" rx="4" ry="3" fill="#c89468"/>
+  <ellipse cx="39" cy="40" rx="4" ry="3" fill="#c89468"/>
+  <path d="M24 48c0-4 5-4 6-1 2-3 7-2 7 1 0 4-7 7-7 7s-6-3-6-7Z" fill="#faf7f2"/>
+</svg>
