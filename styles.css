@@ -32,7 +32,7 @@ nav a { color: var(--muted); text-decoration: none; position: relative; padding-
 nav a:hover, nav a[aria-current="location"] { color: var(--burgundy); }
 nav a[aria-current="location"]::after { position: absolute; bottom: 2px; left: 0; right: 0; height: 1px; background: var(--burgundy); content: ''; }
 
-.introduction { padding: 70px 0 65px; display: grid; grid-template-columns: minmax(0, 1fr) 260px; align-items: start; gap: 48px; }
+.introduction { padding: 70px 0 65px; display: grid; grid-template-columns: minmax(0, 1fr) 320px; align-items: start; gap: 48px; }
 .eyebrow { color: var(--burgundy); font-size: 11px; font-weight: 600; letter-spacing: 1.9px; text-transform: uppercase; margin-bottom: 9px; }
 h1 { font-family: var(--serif); font-weight: 400; font-size: clamp(38px, 4.5vw, 54px); letter-spacing: -1.8px; color: var(--burgundy); line-height: 1.2; margin-bottom: 20px; }
 .intro-lead { font-family: var(--serif); font-size: 22px; line-height: 1.5; letter-spacing: -.2px; margin-bottom: 20px; max-width: 590px; }
@@ -97,7 +97,7 @@ h3 { font-size: 18px; line-height: 1.4; font-weight: 600; letter-spacing: -.25px
 }
 @media (max-width: 850px) {
   .page-width { width: calc(100% - 64px); }
-  .introduction { grid-template-columns: minmax(0, 1fr) 200px; gap: 32px; padding-top: 54px; padding-bottom: 48px; }
+  .introduction { grid-template-columns: minmax(0, 1fr) 240px; gap: 32px; padding-top: 54px; padding-bottom: 48px; }
   .intro-lead { font-size: 20px; }
   .experience-entry, .paper { grid-template-columns: 135px minmax(0, 1fr); gap: 24px; }
   .earlier-paper { margin-left: 159px; }
@@ -110,7 +110,7 @@ h3 { font-size: 18px; line-height: 1.4; font-weight: 600; letter-spacing: -.25px
   .site-header { min-height: 100px; flex-direction: column; align-items: flex-start; justify-content: center; gap: 5px; padding: 16px 0 12px; }
   .wordmark { font-size: 19px; }
   nav { font-size: 12px; gap: 22px; }
-  .introduction { padding: 35px 0 42px; gap: 20px; grid-template-columns: minmax(0, 1fr) 120px; }
+  .introduction { padding: 35px 0 42px; gap: 20px; grid-template-columns: minmax(0, 1fr) 140px; }
   .intro-copy { display: contents; }
   .eyebrow { grid-column: 1; align-self: end; margin: 0 0 -12px; font-size: 9px; letter-spacing: 1px; }
   h1 { grid-column: 1; margin: 0; font-size: clamp(29px, 7.5vw, 43px); letter-spacing: -1.2px; align-self: start; }
